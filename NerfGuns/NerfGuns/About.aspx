@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here. We use Nerf Guns here!
+        Put content here. We use Nerf Guns here! And we enjoy it.
     </p>
 </asp:Content>
